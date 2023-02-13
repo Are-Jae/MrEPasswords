@@ -64,8 +64,8 @@ Working code
 [!picture](./Assets/js%20password%20pic.JPG) 
 
 ## Repo 
-![https://github.com/Are-Jae/Javascript-Generator-Challenge]
+![https://github.com/Are-Jae/MrEPasswords]
 
 
 ## Deployed App
-![https://are-jae.github.io/Javascript-Generator-Challenge/]
+![]
